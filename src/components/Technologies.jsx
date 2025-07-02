@@ -1,4 +1,3 @@
-import { duration } from "@mui/material";
 import { assets } from "../assets/assets";
 import { animate, motion } from "framer-motion";
 
