@@ -8,7 +8,7 @@ import tailwind from "./tailwind.png";
 import vite from "./vite.png";
 import mui from "./mui.png";
 import github from "./github.png";
-import linkedin from "./linkedin.png";
+import linkedinlogo from "./linkedinlogo.png";
 import githubwhite from "./githubwhite.png";
 import whatsapp from "./whatsapp.png";
 
@@ -23,7 +23,7 @@ export const assets = {
   vite,
   react,
   github,
-  linkedin,
+  linkedinlogo,
   githubwhite,
   whatsapp,
 };
