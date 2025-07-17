@@ -16,8 +16,11 @@ const Projects = () => {
                         <motion.div whileInView={{ opacity: 1, x: 0 }} initial={{ x: 100, opacity: 1 }} transition={{ duration: 1 }} className='pb-2.5 content-center w-full max-w-xl lg:w-3/4'>
                             <h3 className='mb-2 font-semibold text-2xl'>{project.title}</h3>
                             <p className='mb-4 text-stone-400'>{project.description}</p>
-                            {project.technologies.map((tech, index) => (<span className='mr-2 rounded bg-stone-900 p-2 text-sm font-medium text-stone-300' key={index}>
-                                {tech}</span>))}
+                            <div className="links flex gap-2">
+                                <a href={project.perview} className='mr-2 rounded bg-stone-900 p-2 text-sm font-medium text-stone-300'  >Live Perview</a>
+                                <a href={project.github} className='mr-2 rounded bg-stone-900 p-2 text-sm font-medium text-stone-300'  >GitHub</a>
+
+                            </div>
                         </motion.div>
                     </div>
                 ))}
