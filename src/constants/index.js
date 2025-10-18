@@ -26,8 +26,8 @@ export const PROJECTS = [
     image: fooddelivery,
     description:
       "A fully functional e-commerce website using React JS, CSS and vite",
-    perview: "https://food-delivery-website-rosy.vercel.app/",
-    github: "https://github.com/AbdulrahmanAkramDev/Food-delivery-website",
+    perview: "https://food-delivery-iota-ten.vercel.app/",
+    github: "https://github.com/AbdulrahmanAkramDev/Food-delivery-",
   },
   {
     title: "Car Landing Page",
