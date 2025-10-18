@@ -1,12 +1,13 @@
-import projectportfolio from "./projectportfolio.png";
+import portfolio from "./portfolio.png";
 import weatherapp from "./weatherapp.png";
-import fooddeliveryapp from "./fooddeliveryapp.png";
+import fooddelivery from "./fooddelivery.png";
 import realestate from "./realestate.png";
+import carlandingpage from "./carlandingpage.png";
 
 export const PROJECTS = [
   {
     title: "Portfolio Website",
-    image: projectportfolio,
+    image: portfolio,
     description:
       "A personal portfolio website using React JS, Tailwind CSS, Framer Motion and vite.",
     perview: "https://portfolio-abdulrahman-iota.vercel.app/",
@@ -22,11 +23,19 @@ export const PROJECTS = [
   },
   {
     title: "food Delivery Website",
-    image: fooddeliveryapp,
+    image: fooddelivery,
     description:
       "A fully functional e-commerce website using React JS, CSS and vite",
     perview: "https://food-delivery-website-rosy.vercel.app/",
     github: "https://github.com/AbdulrahmanAkramDev/Food-delivery-website",
+  },
+  {
+    title: "Car Landing Page",
+    image: carlandingpage,
+    description:
+      "A Car Landing Page using React JS and React Hooks It has a clean responsive design and smooth user experience",
+    perview: "https://car-landing-page-zeta.vercel.app/",
+    github: "https://github.com/AbdulrahmanAkramDev/Car-landing-Page",
   },
 
   {
