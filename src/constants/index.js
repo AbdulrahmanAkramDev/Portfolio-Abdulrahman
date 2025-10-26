@@ -37,12 +37,4 @@ export const PROJECTS = [
     perview: "https://car-landing-page-zeta.vercel.app/",
     github: "https://github.com/AbdulrahmanAkramDev/Car-landing-Page",
   },
-
-  {
-    title: "Weather App",
-    image: weatherapp,
-    description: "A Weather App using React JS, CSS and vite",
-    perview: "https://weather-app-nine-pi-52.vercel.app/",
-    github: "https://github.com/AbdulrahmanAkramDev/Weather-App",
-  },
 ];
