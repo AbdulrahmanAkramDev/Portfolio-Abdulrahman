@@ -8,15 +8,13 @@ const OffService = () => {
 
 
             <div className="my-2  py-6 text-xl leading-relaxed tracking-tighter">
-                I have successfully delivered more than 5 professional and fully responsive front-end projects tailored to suit the needs of various businesses and industries. Each project is built with a strong focus on clean code, performance, and modern user experience standards.
+                I have delivered over 5 professional and fully responsive front-end projects for different business needs. I focus on building clean, high-performance interfaces that provide a smooth and modern user experience.
 
-                I specialize in providing custom front-end solutions that align with your business goals and technical requirements. From transforming designs into interactive interfaces to building scalable React.js applications, I ensure that every detail reflects your vision and expectations.
+                I offer custom front-end solutions tailored to your goals, with a strong commitment to quality, efficiency, and timely delivery.
 
-                My priority is to deliver high-quality results within efficient timelines, without compromising performance, usability, or responsiveness across all devices. I believe in clear communication, attention to detail, and delivering solutions that add real value to your business.
+                If you’re looking for a reliable front-end developer to turn your ideas into a polished product, I’d be happy to work with you.
 
-                If you are looking for a reliable and dedicated front-end developer who can turn your ideas into a polished and functional product, I would be happy to collaborate with you.
-
-                For inquiries or collaboration, feel free to contact me via phone or LinkedIn below.
+                Contact me via phone or LinkedIn below.
             </div>
             <img src="/off.png" className="border border-stone-900 rounded-3xl "
                 width={250}
