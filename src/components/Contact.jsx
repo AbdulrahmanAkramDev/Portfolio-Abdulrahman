@@ -10,9 +10,10 @@ const Contact = () => {
                 <motion.a whileInView={{ opacity: 1, x: 0 }} initial={{ x: -100, opacity: 0 }} transition={{ duration: 1 }} href="https://wa.me/01009414959">
                     <img className="w-10" src={assets.whatsapp} alt="" />
                 </motion.a>
-                <motion.a whileInView={{ opacity: 1, x: 0 }} initial={{ x: 100, opacity: 0 }} transition={{ duration: 1 }} href="https://www.linkedin.com/in/abdulrahman-akram-756a13290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bbf4z60lKRSeSVtIth3NWLQ%3D%3D">
+                <motion.a whileInView={{ opacity: 1, x: 0 }} initial={{ x: -100, opacity: 0 }} transition={{ duration: 1 }} href="https://www.linkedin.com/in/abdulrahman-akram-76a118392/~">
                     <img className="w-10" src={assets.linkedinlogo} alt="" />
                 </motion.a>
+
             </div>
         </div>
     )

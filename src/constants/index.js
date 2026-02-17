@@ -1,8 +1,6 @@
 import portfolio from "./portfolio.png";
-import weatherapp from "./weatherapp.png";
 import fooddelivery from "./fooddelivery.png";
 import realestate from "./realestate.png";
-import carlandingpage from "./carlandingpage.png";
 
 export const PROJECTS = [
   {
@@ -28,13 +26,5 @@ export const PROJECTS = [
       "A fully functional e-commerce website using React JS, CSS and vite",
     perview: "https://food-delivery-iota-ten.vercel.app/",
     github: "https://github.com/AbdulrahmanAkramDev/Food-delivery-",
-  },
-  {
-    title: "Car Landing Page",
-    image: carlandingpage,
-    description:
-      "A Car Landing Page using React JS and React Hooks It has a clean responsive design and smooth user experience",
-    perview: "https://car-landing-page-zeta.vercel.app/",
-    github: "https://github.com/AbdulrahmanAkramDev/Car-landing-Page",
   },
 ];
