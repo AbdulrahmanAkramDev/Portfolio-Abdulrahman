@@ -17,8 +17,8 @@ const OffService = () => {
                 Contact me via phone or LinkedIn below.
             </div>
             <img src="/off.png" className="border border-stone-900 rounded-3xl "
-                width={250}
-                height={250}
+                width={350}
+                height={350}
                 initial={{ x: 100, opacity: 0 }}
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ duration: 1, delay: 1.5 }} alt="" />
