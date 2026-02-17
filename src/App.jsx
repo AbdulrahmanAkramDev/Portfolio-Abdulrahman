@@ -4,6 +4,7 @@ import Technologies from "./components/Technologies";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Education from "./components/Education";
+import OffService from "./components/OffService";
 
 
 
@@ -24,6 +25,7 @@ const App = () => {
         <Education />
         <Technologies />
         <Projects />
+        <OffService />
         <Contact />
       </div>
     </div>
