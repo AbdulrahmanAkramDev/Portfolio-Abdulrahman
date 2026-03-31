@@ -8,7 +8,7 @@ const OffService = () => {
 
 
             <div className="my-2  py-6 text-xl leading-relaxed tracking-tighter">
-                I have delivered over 5 professional and fully responsive front-end projects for different business needs. I focus on building clean, high-performance interfaces that provide a smooth and modern user experience.
+                I have delivered over 3 professional and fully responsive front-end projects for different business needs. I focus on building clean, high-performance interfaces that provide a smooth and modern user experience.
 
                 I offer custom front-end solutions tailored to your goals, with a strong commitment to quality, efficiency, and timely delivery.
 
